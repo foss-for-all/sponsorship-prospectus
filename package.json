@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "marp --theme ./themes/ubucon.css --html --pdf --allow-local-files --pdf-outlines",
-    "preview": "marp --theme ./themes/ubucon.css --html --preview --allow-local-files"
+    "build": "marp --theme ./themes/f4a.css --html --pdf --allow-local-files --pdf-outlines",
+    "preview": "marp --theme ./themes/f4a.css --html --preview --allow-local-files"
   },
   "author": "",
   "license": "ISC",

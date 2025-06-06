@@ -1,7 +1,7 @@
 ---
 marp: true
-title: UbuCon Korea 2025 Sponsorship prospectus
-theme: ubucon
+title: FOSS for All Conference 2025 후원 제안서
+theme: f4a
 paginate: true
 ---
 <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
@@ -29,10 +29,8 @@ paginate: true
 
 <style scoped>
     section {
-        background-image: url(https://assets.ubuntu.com/v1/ed94a429-0000_suru-corner-fan--top-right-light.jpg);
-        background-position: top right;
-        background-size: 20rem 15rem;
-        align-content: end;
+      
+        align-content: center;
         font-size: 40px;
     }
     h1 {
@@ -41,73 +39,75 @@ paginate: true
 </style>
 
 ![w:200](./assets/logo.svg)
-# UbuCon Korea 2025
-August 10
-Microsoft Korea (13F)
-**Sponsorship prospectus**
+# FOSS for All<br> Conference
+Coexist with Open Source
+2025년 11월 8일 | 광운대학교
+**후원 제안서**
 
-<img src="./assets/UbuntuKrLogo.svg" style="height: 50px;"/>
-
-<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+<small>FOSS for All</small>
 
 <!-- _paginate: skip -->
 
 ---
 
 <!-- header: ![w:50](./assets/logo.svg) -->
-<!-- footer: https://2025.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
-
-<img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
-
-# About Ubuntu & UbuCon Korea
-
-**Ubuntu**, co-developed by the Ubuntu Community with people from worldwide and Canonical, stands as the world's leading open-source Linux-based operating system. While Ubuntu started as an easy-to-use Linux desktop 20 years ago, today, with its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
-
-Today, there are **two major annual events** that bring together people from the global Ubuntu community to share various projects and practices in the Ubuntu ecosystem: **UbuCon**(s) across different regions and the **Ubuntu Summit.**
-
-The main difference between the two events is that Canonical, the creator of Ubuntu, is largely involved with organizing the Ubuntu Summit, while UbuCon is a community-driven event that is **solely organized by the community.** These UbuCons are held in **different regions within a continent or country,** and today there are UbuCon NA @ SCaLE, UbuCon Europe, UbuCon Latin America, UbuCon Portugal, and UbuCon Asia.
-
-**UbuCon Korea** is the largest domestic Ubuntu community event of the year, bringing together contributors and users of Ubuntu projects in Korea, and was started as a spin-off of UbuCon Asia 2022, which was the first in-person event in Seoul. Following successes of our previous editions on last 2 years at Microsoft Korea with 151 participants, UbuCon Korea 2025 will be held on August 9 at the same venue with diverse programs to celebrate 20 years of Ubuntu Korea Community!
+<!-- footer: https://2025.fossforall.org | sponsors@fossforall.org -->
 
 
-## Event overview
+# FOSS for All Conference 소개
 
-- **Name:** UbuCon Korea 2025
-- **Date:** August 10th, 2025 
-- **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F)
-- **Scale:** 150+ participants (Including speakers and staff)
-- **Host:** Ubuntu Korea Community
-- **Tickets**
-  - Standard (Paid)
-  - Individual patron/business (Paid)
+올해 처음 열리는 FOSS for ALl 컨퍼런스는 “Free and Open Source Software for All”이라는 슬로건 아래, 모두를 위한 오픈소스 컨퍼런스를 목표로 하는 비영리 오픈소스 커뮤니티 컨퍼런스입니다.
 
+해외에서는 COSCUP (대만), FOSDEM (벨기에) 등 다양한 오픈소스 중심의 비영리 컨퍼런스가 활발히 열려 각국의 오픈소스 생태계의 자양분이 되어 주고 있습니다. 한국에서는 Python, Golang, Ubuntu, OpenStack, Kubernetes 같은 규모가 큰 글로벌 오픈소스 프로젝트는 운영진을 조직하고 후원사를 모집하여 자체 컨퍼런스를 운영할 수 있지만, 개인 혹은 작은 규모의 오픈소스 프로젝트는 기술 교류 행사를 조직하기 쉽지 않은 상황입니다. FOSS for All은 한국에서도 다양한 분야의 오픈소스 프로젝트가 모이는 컨퍼런스를 열어 국내 오픈소스 생태계에 도움을 주고자 하는 취지에서 출발했습니다.
 
----
+FOSS for All은 오픈소스 소프트웨어와 커뮤니티에 관심 있는 누구나 참여할 수 있으며, 개발자, 기여자, 디자이너, 번역가, 기획자 등 다양한 역할의 사람들이 경험과 지식을 공유하는 장으로 기술 발표, 커뮤니티 부스, 패널 토크 등 다양한 프로그램이 마련될 예정입니다.
 
-# About Ubuntu Korea Community
-
-## About the community
-Started in 2005, the Ubuntu Korea Community is a place for Korean Ubuntu users and contributors, and is also an official Ubuntu local community verified by the Ubuntu Local Community Council. To expand the popularity of Ubuntu and related open sources in Korea, the community operates forums for Ubuntu-related Q&A, translates various Ubuntu packages into Korean, runs a Korean Ubuntu wiki, and works on documentation. We also hold various offline events such as general meetings, regular seminars, workshops, group study activities, and UbuCon for offline exchanges among community members.
-
-## Activities to expand Ubuntu adoption and improve usability
-Our online forum, which has been with the community since its beginning, is still live and has recently been revamped with Discourse to make it more user-friendly. Multilingual support for the various packages available in Ubuntu is maintained by local communities in each country. Our community also has a translation team, which continues to contribute to Korean support for Ubuntu. When necessary, we translate documents of interest to many people, such as Ubuntu release notes, into Korean, making it easier for people who are not familiar with English to access information about Ubuntu.
-
-## Host a variety of in-person events
-In addition to online-based activities such as running online forums and contributing to Ubuntu projects. We periodically organize offline events for community members to meet and interact. These events include regular general meetings (within three months after closing finances each year), regular seminars, hands-on workshop events, group study activities, and the annual UbuCon, a large-scale event that brings together Ubuntu users and contributors from various fields.
-
-## Engaging with international communities
-We continue to interact with various overseas Ubuntu and open source communities, including Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, FOSS Nepal, Ubuntu India and FOSSASIA, and we also participate in UbuCon Asia, the premier event for Ubuntu community exchange in Asia, where we share our activities with each community.
+FOSS for All의 모든 운영은 후원과 기부 그리고 자원봉사자들의 참여를 통해 이루어집니다. 참가비를 최소화하여 누구나 부담 없이 참여할 수 있도록 하며, 상업적 목적 없이 자유 오픈소스 철학에 따라 개방적이고 자발적인 참여 정신을 유지합니다.
 
 
-<div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
-  <img src="./assets/forum.png" style="flex: 1">
-  <img src="./assets/l10n.jpg" style="flex: 1">
-  <img src="./assets/uck24hallway.jpg" style="flex: 1">
-</div>
+## 행사 개요
+
+- **행사명:** FOSS for All Conference 2025
+- **날짜:** 2025년 11월 8일
+- **장소:** 광운대학교
+- **규모:** 약 500명 이상 참가자 규모 (발표자 및 행사 관계자 포함)
+- **주최:** 포스포올(FOSS for All)
+- **입장권**
+  - 일반 참가자 (유료)
+  - 개인 후원 티켓/비즈니스 티켓 (유료)
 
 
 ---
-# The venue & Proposed timetable
+<style scoped>
+img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+# FOSS for All 소개
+![center h:300](./assets/pictogram_bg.svg)
+**지속 가능한 자유/오픈소스 소프트웨어 생태계 구축을 위한 이니셔티브**
+
+FOSS for All (포스포올)은 지속 가능한 자유/오픈소스(Free and Open source) 생태계 구축을 위해 국내외 다양한 커뮤니티와 프로젝트가 모여 시작된 이니셔티브 입니다. 법인으로 보는 단체 등록과 첫 컨퍼런스 개최를 시작으로, 중장기적으로 비영리법인 설립과 공익법인(기부금단체) 지정과 프로젝트-커뮤니티-기업-사용자간 네트워크를 구축하는 등 다양한 활동을 전개하고자 합니다.
+
+이를 통해, 한국내는 물론 전세계 다양한 오픈소스 프로젝트 및 커뮤니티가 직접 법인을 설립하거나, 많은 서류 작업을 하거나, 그 외 운영에 필요한 각종 정보를 알기 위한 시행착오를 하지 않고도 투명하면서도 중요하다고 생각되는 것에 더 집중할 수 있도록 지원하여 지속 가능한 자유/오픈소스 생태계 구축에 기여하고자 합니다.
+
+## 단체의 주요 목표와 추진 사업 
+
+**재정후원(Fiscal sponsorship)**
+자유/오픈소스 커뮤니티와 프로젝트가 단체를 등록하거나 법인 설립을 하지 않고도 기업이나 개인의 후원을 받아 공금을 조성하고 사용할 수 있도록, 그리고 편리하면서도 투명하게 공금과 다른 자산을 관리할 수 있도록, Fiscal sponsorship을 제공하고자 합니다. 이는 비영리법인 설립 후 추진 될, 중장기적인 목표 중 하나 입니다.
+
+**FOSS for All 컨퍼런스**
+국내외 다양한 자유/오픈소스 커뮤니티가 모여 교류하고, 잘 알려지지 않은 프로젝트의 확산, 커뮤니티 참여자들의 공통된 그리고 새로운 고민을 함께 논의할 수 있는 컨퍼런스를 매년 개최하고자 합니다.    
+이를 통해 컨퍼런스 참석자들이 자유/오픈소스 프로젝트에 더 적극적으로 그리고 지속적으로 참여 및 기여하도록 하고자 합니다.
+
+**생태계 참여자간 네트워크 구축**
+여러 자유/오픈소스 프로젝트와 자유/오픈소스 생태계의 다양한 참여자(메인테이너, 기여자, 애호가, 사용자, 기업, 관련 단체와 기관 등)간 네트워크를 구축하여, FOSS for All 이 그 사이 촉매제 역할을 하고자 합니다.    
+상호간 각종 사례와 경험 공유될 수 있도록 함은 물론, 생태계 참여자간 필요하면 협업하여 시너지를 만들 수 있도록 필요한 지원을 제공 할 것입니다.
+
+---
+# 행사장 및 시간표
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
   <img src="./assets/venue1.jpg" style="flex: 1">
@@ -115,286 +115,164 @@ We continue to interact with various overseas Ubuntu and open source communities
   <img src="./assets/venue3.jpg" style="flex: 1">
 </div>
 
-## The venue
-**Microsoft Korea (The K Twin Tower - Building A 13F)**
+## 행사장
+**광운대학교**
+행사가 열릴 장소인 광운대학교는 서울에 소재한 종합사립대학으로, 실무 중심의 소프트웨어 교육, 학생 주도 오픈소스 프로젝트(KW 오픈소스 그룹) 그리고 국제 오픈소스 컨퍼런스 개최 경험 등을 바탕으로 오픈소스 생태계 발전에 기여하고 있습니다.
 
-Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, near Gwanghwamun Station. It has a conference room with a total capacity of 110 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
+뿐만 아니라, 광운대학교에서는 앞서 2024년에 VideoLAN에서 주최하는 Video Dev Day 유치 및 개최를 통해 대규모 행사 개최 사례가 있는 바, FOSS for All 컨퍼런스를 개최하기에도 최적의 환경을 제공을 제공할 것입니다.
 
-## Proposed timetable
 
-| Jeju Hall | Donghae Hall | Dokdo Hall |
+## 시간표(초안)
+
+| 제주 | 동해 | 독도 |
 | --- | --- | --- |
-| **10:00** Opening (30min) | | |
-| **10:30** Keynote (30min) | | |
-| **11:00** Talk (30min) | **11:00** Workshop (90min) | **11:00** Talk (30min) |
-| **11:30** Talk (20min + 10min break) | | **11:30** Talk (20min + 10min break) |
-| **11:00** Talk (30min) | | **11:00** Talk (30min) |
-| **12:30** Lunch break (60min) | | |
-| **13:30** Talk (30min) | **13:30** Workshop (90min) | **13:30** BoF (40min +10min break) |
-| **14:00** Talk (20min + 10min break) | | |
-| **14:30** Talk (30min) | | **14:20** BoF (40min) |
-| **15:00** Afternoon break (20min) | | |
-| **15:20** Talk (30min) | **15:20** Workshop (90min) | **15:20** BoF (40min + 10min break) |
-| **15:50** Talk (20min + 10min break) | | |
-| **16:20** Talk (30min) | | **16:10** BoF (40min) |
-| **16:50** Lightning talks (20min) | | |
-| **17:10** Closing (10min) | | |
----
+| **10:00** 개회사 (30분) | | |
+| **10:30** 기조연설 (30분) | | |
+| **11:00** 강연 (30분) | **11:00** 워크샵 (90분) | **11:00** 강연 (30분) |
+| **11:30** 강연 (20분 + 10분 휴식) | | **11:30** 강연 (20분 + 10분 휴식) |
+| **11:00** 강연 (30분) | | **11:00** 강연 (30분) |
+| **12:30** 점심식사 (60분) | | |
+| **13:30** 강연 (30분) | **13:30** 워크샵 (90분) | **13:30** BoF (40분 +10분 휴식) |
+| **14:00** 강연 (20분 + 10분 휴식) | | |
+| **14:30** 강연 (30분) | | **14:20** BoF (40분) |
+| **15:00** 오후 휴식 (20분) | | |
+| **15:20** 강연 (30분) | **15:20** 워크샵 (90분) | **15:20** BoF (40분 + 10분 휴식) |
+| **15:50** 강연 (20분 + 10분 휴식) | | |
+| **16:20** 강연 (30분) | | **16:10** BoF (40분) |
+| **16:50** 라이트닝 토크 (20분) | | |
+| **17:10** 폐회사 (10분) | | |
 
-# Who attends UbuCon Korea
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; padding: 10px;">
-  <p><b>Software Engineers</b><br/>Web (Frontend, Backend), Embedded & IoT, OS & System & Kernel, Desktop Applications, Robotics</p>
-  <p><b>Academic & Other</b><br/>Students (Mostly IT related majors), Professors, Researchers, Sales Manager, Enterprisers</p>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-  <p><b>IT Infra & Operations</b><br/>Cloud Engineer, DevOps, SRE, Solutions Architect, Support Engineer, SysAdmin</p>
-  <p><b>Data & AI</b><br/>Data Engineers, Data Scientists, AI/ML Engineers, Data Analysts</p>
-  <p><b>Community & Marketing</b><br/>Community Managers, Developer Relations, Marketing Managers</p>
-  </div>
-</div>
-
-## Highlights from last year
-<div style="display: flex; flex-direction: row;">
-  <p  style="flex: 1"><b>173</b><br>Registrations</p>
-  <p  style="flex: 1"><b>151</b><br>Attendees</p>
-  <p  style="flex: 1"><b>18</b><br>Sessions</p>
-  <p  style="flex: 1"><b>~76%</b><br>First time<br>attendee</p>
-  <p  style="flex: 1"><b>50%+</b><br>2 Years+<br>career</p>
-  <p  style="flex: 1"><b>60%+</b><br>IT related<br>profession</p>
-</div>
-
-### Participants by profession (2024)
-<pre class="mermaid mermaid-100h">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
-pie showData
-    "Software Engineer" : 54
-    "IT Infra & Operations": 37
-    "AI/ML Engineer": 3
-    "Researcher (Institute)": 2
-    "Researcher (Enterprise)": 4
-    "Students (IT majors)": 33
-    "Students (Other majors)": 6
-    "Teenagers": 5
-    "Education": 4
-    "Community Manager": 4
-    "Marketing Manager": 7
-    "Officials": 5
-    "Enterprisers": 2
-    "Etc": 7
-</pre>
 
 ---
-### Demographics breakdown - Software Engineers
-<pre class="mermaid mermaid-100h" style="height:43%">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
-pie showData
-    "Web Backend" : 20
-    "Web Frontend" : 8
-    "Embedded & IoT" : 4
-    "OS, System & Kernel" : 5
-    "Desktop Application" : 7
-    "Robotics" : 10
-</pre>
-### Demographics breakdown - IT Infra & Operations
-<pre class="mermaid mermaid-100h" style="height:43%">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
-pie showData
-    "Cloud Engineer": 19
-    "DevOps Engineer": 9 
-    "SRE": 4
-    "Support Engineer": 2
-    "Solutions Architect": 3
-</pre>
+# 후원의 의미와 후원사 혜택
+## 후원사로 참여하기
+FOSS for All에서 주최하는 FOSS for All 컨퍼런스는 자원 봉사자로 구성된 준비위원회에서 금전적 보상 없이, 비영리 형태로 준비하는 행사 입니다. 때문에 행사 준비에 필요한 비용을 참가비와 후원사 모집 등을 통해 충당하고 있습니다. 본 행사는 가능한 많은 사람들이 부담없이 참석 할 수 있도록 하기 위해 참가비 또한 최소화 하고 있기에, 성공적인 행사 개최에 후원사의 기여가 더욱 중요하도고 할 수 있습니다.
 
----
-# What sponsorship means and its benefits
-## Become a sponsor
-As a non-profit event, UbuCon Korea is organized by a volunteer organizing committee without financial compensation and relies on sponsorships and individual patrons to make the event happen.
+후원을 통한 행사에 대한 기여는, 국내외 다양한 오픈소스 커뮤니티의 수많은 사람이 한 곳에 모일 수 있도록 하는데 큰 도움이 될 뿐만 아니라 오픈소스 커뮤니티에 대한 진심 어린 지원을 보여주는 좋은 방법 이기도 합니다. 또한 FOSS for All 단체의 주요 목표인 “지속 가능한 자유/오픈소스 생태계 조성”에도 많은 도움이 됩니다.
 
-Through this event, we hope to bring together a wide range of people, including those who are interested in Ubuntu, those who use it in the field, and those who contribute to the project, as well as collaborate with other open source communities to strengthen our network and reach a wider audience. Securing sufficient funding is crucial to achieving this goal.
+제공되는 후원 패키지를 통해 다양한 오픈소스 커뮤니티를 대상으로 후원사의 브랜딩을 강화하고, 회사나 서비스를 홍보하거나, 참가자와 상호 작용하고, 잠재적으로 후원사에 새로운 개발자 또는 엔지니어를 모집하는 데 도움이 될 수 있습니다.
 
-By joining the event as a sponsor, you'll not only help us achieve our goals, but you'll also show your sincere support for the Ubuntu community. With our sponsorship packages, you'll be able to enhance your branding, promote your company or service to our audience, and engage with attendees to potentially recruit new developers or engineers.
-
-## Why sponsor
+## 후원사로 참여해야 하는 이유
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; padding-right: 10px;">
   <p>
     <img src="./assets/icons/target.svg" style="height: 40px"/><br/>
-    <b>Targeted audience</b><br/>
-    A good opportunity to boost leads through targeted marketing with most of our audience from tech industry.
+    <b>정해진 대상 청중</b><br/>
+    대부분 IT업계에 종사하는 청중을 대상으로 타겟 마케팅을 집행하여 의미있는 리드를 늘릴 수 있는 좋은 기회입니다.
   </p>
   <p>
     <img src="./assets/icons/talent.svg" style="height: 40px"/><br/>
-    <b>Talent acquisition</b><br/>
-    Recruit the brightest minds in the industry to fill your open positions.
-    60%+ of our attendees last year were with IT related professions.
+    <b>인재 영입</b><br/>
+    업계에서 가장 뛰어난 인재를 채용하세요.
+    작년 참석자 중 60% 이상이 IT 관련 직종에 종사했습니다.
   </p>
   <p>
     <img src="./assets/icons/bullhorn.svg" style="height: 40px"/><br/>
-    <b>Empower your branding</b><br/>
-    Your logo will be exposed on banners, websites, videos as well as our media coverages.
+    <b>브랜딩 강화</b><br/>
+    후원사 로고가 현수막과 웹사이트 및 비디오에 노출됨은 물론, 매체를 통한 홍보에도 이름 등이 노출 됩니다.
   </p>
   </div>
   <div style="flex: 1; padding: 10px;">
   <p>
     <img src="./assets/icons/present.svg" style="height: 40px"/><br/>
-    <b>Showcase products and services</b><br/>
-    Showcase your innovative products and service face-to-face with your potential and existing customers and receive valuable feedback. 
+    <b>제품 및 서비스 홍보</b><br/>
+    잠재적 고객 및 기존 고객과 직접 대면하여 혁신적인 제품과 서비스를 소개하고 의미있는 피드백을 받을 수 있습니다.
   </p>
   <p>
     <img src="./assets/icons/speak.svg" style="height: 40px"/><br/>
-    <b>Establish thought leadership</b><br/>
-    Showcase your expertise on Ubuntu and its ecosystem and educate the community about your organization’s products, services and open source strategies.
+    <b>사고 리더십 구축</b><br/>
+    오픈소스 생태계에 대한 후원사의 전문성을 확산하고, 후원사의의 제품, 서비스 및 오픈소스 전략에 대해 커뮤니티에 전파하세요.
   </p>
   <p>
     <img src="./assets/icons/opensource.svg" style="height: 40px"/><br/>
-    <b>Support Open source and Community</b><br/>
-    Sponsoring our event is one of the best ways to show your sincere and support to open source and community.
+    <b>오픈소스와 커뮤니티 지원</b><br/>
+    이 행사를 후원사는 것은 오픈소스와 커뮤니티에 대한 진심 어린 지원을 보여주는 가장 좋은 방법 중 하나라고 할 수 있습니다.
   </p>
   </div>
 </div>
 
----
-
-# Past sponsors
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/canonical.svg">
-  <img src="./assets/sponsor_logos/onlyoffice.svg">
-  <img src="./assets/sponsor_logos/ahnlabcloudmate.svg">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/naver_cloud.png">
-  <img src="./assets/sponsor_logos/microsoft.png">
-  <img src="./assets/sponsor_logos/invesume.png">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/whatap.png">
-  <img src="./assets/sponsor_logos/nhncloud.png">
-  <img src="./assets/sponsor_logos/eventus.svg">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/grometric.svg">
-  <img src="./assets/sponsor_logos/OSCKorea.svg">
-  <img src="./assets/sponsor_logos/hanbit.svg">
-</div>
-<div class="imgrow">
-  <img src="./assets/sponsor_logos/inflearn.svg">
-  <img src="./assets/sponsor_logos/elastic.svg">
-</div>
-
-**More than half** of our past sponsors have already sponsored our event **twice or more.**
-
 
 ---
 
-# Sponsorship packages
+# 후원사 패키지
 
-| **Package** | Diamond | Gold | Silver | Bronze | Supporter  |
-| --- | --- | --- | --- | --- | --- |
-| **Slots** | 1 | 1 | 2 | 4 | ∞ |
-| Price(KRW)<sup>*0</sup> | 6,000,000 | 3,000,000 | 1,600,000 | 800,000 | 500,000 |
-| Price(USD) | 4,444  | 2,222 | 1,185  | 592 | 370 |
-| **Logo exposures** |  |  |  |  |  |
-| Basic | O | O | O | O | O |
-| Recordings & Stage(or Podium) | O | O | X | X | X |
-| Badges & Swags | O | O | X | X | X |
-| **Tickets**  | Free 5 tickets | Free 4 tickets | Free 3 tickets | Free 2 tickets | 10% off for 5 tickets |
-| **Sponsored session**<sup>*1</sup> | Keynote & 1 Session<sup>*2</sup> |1 Session<sup>*3</sup> | Lightning talk (5min) | X | X |
-| **Sponsor booth** | 1.8m width | 1.8m width | 1.8m width<sup>*4</sup> | X | X |
-| **Marketing** |  |  |  |  |  |
-| Basic | O | O | O | O | O |
-| Marketing (Email) | Name+URL+Logo | Name+URL+Logo | Name+URL | Name+URL | Mention name only |
-| Marketing (Engagement) | O | O | O | O | X |
-| **Swag giveaway** | O | O | O | O | O |
+| 등급 | Gold | Silver | Bronze |
+| --- | --- | --- | --- |
+| 금액(원)<sup>1</sup> | 200만원 | 100만원 | 50만원 |
+| **로고 노출** |  |  |  |
+| 현수막 로고 노출 | 대 | 중 | 소 |
+| 홈페이지 로고 노출 | 대 | 중 | 소 |
+| 명찰 로고 노출 | O | X | X |
+| **상호 작용** |  |  |  |
+| 후원사 세션 | 키노트(메인홀) 1회 | 강연 1회 | 강연 1회 |
+| 후원사 부스 | 대 | 중 | 소 |
+| 입장권 지원 | 5매 | 3매 | 1매 |
+| **마케팅** |  |  |  |
+| 소셜 미디어 홍보 | O | O | O |
+| 쉬는시간 홍보영상 | O | X | X |
+| 참가자 명단 제공 | 이메일 주소,<br> 성명, 소속, 직무 등 | 이메일 주소 | X |
+| **공통** |  |  |  |
+| 후원 증서 | O | O | O |
 
-**Footnotes**
-- *0: VAT 10% is not included in this price.
-- *1: Sponsored sessions are also subject to Code of Conduct compliance and content team review, with no exceptions, and must be related to Ubuntu or related open source technologies. In addition, blatant marketing and sales pitches are prohibited. 
-- *2: Choose between a Workshop, a Talk and a BoF Session.
-- *3: Choose between a Talk and a BoF Session. Additional fee 300,000 KRW (Approx 222 USD, VAT not included) is required to choose Workshop option.
-- *4: 2 slots available, and served as an Add-on with 200,000 KRW fee. (Approx 148 USD, VAT not included) First come first serve.
+**주석**
+<sup>1</sup> 부가가치세 10%는 별도 입니다.  
+# 단일 품목 패키지 
+후원 등급표 외에도, 후원사에서 원하는 단일 품목을 후원할 수 있는 패키지도 마련되어 있습니다. 아래의 품목 중 하나를 선택하여 후원하실 수 있습니다.
 
----
-# Sponsorship package details
+**부스 패키지**: 원하시는 부스 크기를 선택하셔서 후원하실 수 있습니다.
+- 부스 크기별 가격: 대(30만원), 중(20만원), 소(10만원)
 
-## Logo exposure
-- **Basic:** Your logo will be exposed on our website, a large photo wall that will be installed on the lounge, and intro part of each session recordings.
-- **Recordings & Stage(or Podium):** Your logo will be also exposed on banner areas of each session recordings, and banners inside the conference room which will be installed next to the stage.
-- **Badges & Swags:** Your logo will be also exposed on badges and swags (such as T-shirts) that all participants will get. Badges are the most frequent and effective way to expose your logo, as they are worn by participants at all times during the event, and swags allow for logo exposure even after the event.
 
-<div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 180px; ">
-  <img src="./assets/photowall.jpg" style="flex: 0.9">
-  <img src="./assets/booth.jpg" style="flex: 0.9">
-  <img src="./assets/sponsored_session.jpg" style="flex: 1.2">
-</div>
-
-## Tickets
-As a token of our appreciation, we'll provide free or discounted tickets based on your sponsorship level. You'll be able to attend the event with your sponsored ticket and easily interact with attendees.
-
-## Sponsor session
-- Showcase your experience with Ubuntu and related open source technologies, case studies, and the culture of working in their teams.
-- Session content must be related to Ubuntu or related open source technologies and adhere to the Code of Conduct. UbuCon is not a place to sell products, so excessive promotion of products is also prohibited.
-- Sponsored sessions will be labeled as such on the website and in other media.
-
-## Sponsor booth
-Sponsor booths at the event are a great way to showcase your organization and engage directly with attendees. Activities such as booth events and mini-sessions are also possible to promote your company or organization's products, services, and activities.
+# 현물후원
+간식, 기념품, 행사 준비에 필요한 물품 등을 현물로 후원하실수도 있습니다. 후원하고자 하시는 현물에 대한 사항을 후원사 팀에 제안 해 주시면, 검토 후 현금으로 환산했을 때 가치에 비례하여 후원 등급표에 있는 혜택을 제공 해 드릴 수 있습니다.
 
 ---
-# Sponsorship package details
+# 후원사 패키지 세부사항
 
-## Marketing
-**Basic:** Before and after the event, we'll promote your sponsorship through a variety of community outreach and participant-targeted channels.
-- Your sponsorship will be mentioned during opening and closing with your logo exposed
-- Post sponsor introductions and thank you post through the community's social media channels
-- Dedicate sponsor information page on our website
+## 로고노출
+- **현수막**: 행사장 입구, 강연장 내 등 여러 위치에 설치된 현수막에 후원사 로고가 노출됩니다.
+- **홈페이지**: 컨퍼런스 홈페이지 후원사 로고 영역에 후원사 로고가 노출 됩니다.
+- **명찰**: 각 참가자들이 상시 착용하는 명찰에 후원사 로고를 인쇄하여 효과적으로 로고를 노출할 수 있습니다. 
+## 상호작용
+- 후원사 세션
+- 후원사 부스
+- 입장권 지원
+## 마케팅
+- **소셜 미디어 홍보**: FOSS for All 의 소셜 미디어에 후원사 홍보 게시물이 업로드 됩니다.
+- **쉬는시간 홍보영상**: 세션간 쉬는시간에 후원사에서 제공한 홍보영상이 재생됩니다.
+- **참가자 명단 제공**
+  - 행사가 끝난 이후에도, 참가자와 상호작용 하실 수 있도록 참가자 명단 데이터를 제공 해 드립니다.
+  - 제3자 정보제공 동의한 참가자의 정보만 제공되며, 제공되는 항목은 후원 등급에 따라 다릅니다.
+  - 컨퍼런스의 개인정보처리방침에 따라 보유 및 이용 가능하며, 개인정보처리방침에 기재할 후원사 상호명과 주소, 후원사 측 담당자 및 연락처 정보, 이용목적과 보유기간 만료 후 폐기방법 등을 반드시 알려주셔야 합니다. 
 
-**Email:** A reminder email sent to attendees 1-3 days before the event starts, with a brief introduction or mention of the sponsor. Depending on your sponsorship level, your visibility in the body of the email will vary.
-
-**Engagement:** We help sponsors interact with participants even after the event ends. If you don't request otherwise when registering as a sponsor, we can send a single email to participants with the text you requested.
-- At the time of sponsor registration, You may also choose to receive a list of participants who have given their consent to disclose their personal information to third parties instead of sending emails by us.
-  - The items to be provided are the participant's name, affiliation, title (or profession), and email address. The information to be included in the privacy policy disclosed by the organizing committee through the website (who will receive the personal information, location (address), person in charge and contact information, purpose of use, and method of destruction upon expiration of the retention period) must be provided.
-  - The retention period of the personal information received will be until September 9, 2025 (1 year) and will be described in the organizer's privacy policy.
-
-## Swag giveaway
-If you'd like, you can give out sponsor swag (stickers, t-shirts, eco-bags, mugs, etc.) to participants. You can send a small amount for a raffle, or you can send enough for all participants. We'll let you know how to do this separately.
-
-<div style="display: flex; flex-direction: row;  height: 280px; ">
-  <img src="./assets/marketing.png" style="flex: 1">
-  <img src="./assets/swag.jpeg" style="flex: 1">
-</div>
+## 공통
+- 후원증서
 
 
 ---
-# How to become a sponsor
+# 후원사 등록 절차 안내
 
-## Choose your sponsorship package
-Please select your preferred sponsorship package from the ones listed above and submit the sponsorship application form. Once confirmed, we will proceed with the registration process if a slot is available. If you would like to adjust the details of your package, or if you would like to make an in-kind contribution, such as swags, equipment, or services needed to run the event, you can do so in consultation with the organizing committee. For in-kind sponsorships, we will provide benefits based on the value in cash.
+## 후원 패키지 선택 및 협의
+위에 나온 후원사 패키지 중, 희망하시는 패키지를 선택하신 후, 후원사 등록 신청 양식을 제출 해 주세요. 확인 후, 수량이 남아 있다면 후원사 등록 절차를 진행 해 드립니다. 패키지 세부사항을 조정하고 싶으시거나, 행사 운영에 필요한 기념품이나 장비 또는 서비스 등의 현물 후원을 원하시는 경우 준비위원회 측과 협의를 통해 후원도 가능합니다. 현물 후원의 경우, 현금으로 환산했을 때 가치에 따라 혜택을 제공 해 드립니다. 
 
-## Issue required documents for registration 
-- Quotation - In case you need to submit a purchase order (PO) in your company and get approval.
-- Sponsorship agreement - Complete the event sponsorship agreement as required by the sponsor. Can be omitted if not required by the sponsor.
-- Tax Invoice(or Invoice) - After completion of the contract, or if the contract is omitted, we will issue a tax invoice under the name of "Ubuntu Korea Community" after completion of the sponsor's internal approval process. If you are an overseas corporation, an invoice will be issued through our fiscal host  instead.
+## 후원사 등록 서류 발행
+- 견적서 - 후원사 내부 품의 절차에 필요하신 경우, 요청하시면 발행 해 드립니다.
+- 계약서 - 후원사측 필요에 따라 행사 후원 계약서를 작성합니다. 후원사 측에서 필요하지 않은 경우 생략 가능합니다.
+- 세금계산서(혹은 인보이스) - 계약서 작성 완료 후, 계약서가 생략된 경우 후원사 내부 품의 절차 완료 후 "포스포올" 명의로 세금계산서를 발행 해 드립니다. 국내 사업장이 없는 해외법인인 경우, 인보이스가 대신 발행됩니다.
 
-## Make payment
-After the tax invoice (or invoice) is issued, please deposit the sponsorship fee including 10% VAT to the bank account provided, and the sponsor registration will be completed after confirmation. If a contract has been signed, the deadline will be as specified in the contract. If a contract has skipped, the deadline will be 2 weeks from the date of the tax invoice (or invoice) issued. If you need to extend the deadline, it can be extended by agreement. The deposit must be completed no later than 3 weeks before the start of the event.
+## 후원 비용 결제
+세금계산서(혹은 인보이스) 발급 완료 후, 안내드린 계좌로 부가세 10%를 포함한 후원 비용을 입금 해 주시면, 확인 후 후원사 등록 완료 처리 됩니다. 입금 기한은 계약서를 작성 한 경우, 계약서에 명시된 사항을 따르며. 계약서가 생략 된 경우, 세금계산서(혹은 인보이스) 발행일로부터 2주 이내 입금 해 주시면 됩니다. 기한 연장이 필요한 경우, 협의를 통해 연장 가능하며. 늦어도 행사 시작 3주 전 까지는 입금이 완료 되어야 합니다.
 
-## Once registration is complete… 
-Once you have registered as a sponsor, your logo will be displayed on the website and you will be informed about access to benefits such as sponsored sessions. Your sponsorship will be used to cover the costs of installing venue facilities, catering, badges and swags such as stickers and T-shirts, catering for participants, travel grants speakers/volunteers/organizing committee members from non-capital areas, travel grants for selected participants who apply for the grants, and rental of video streaming and recording equipment. Any funds left over after use will be utilized for community management costs, such as tax agent fees.
+## 후원사 등록 완료
+후원사 등록이 완료 되면, 웹사이트에 로고가 게재 되며 후원사 세션 등 혜택 사용에 대해 안내 드립니다. 후원 해 주신 금액은 행사장 시설물 주문 및 설치 비용, 명찰과 스티커 및 티셔츠 등 기념품 제작 비용, 참가자 식사 제공 비용, 영상 스트리밍 및 녹화장비 대여 등의 행사 운영 비용으로 사용됩니다. 사용 후 남은 비용은 FOSS for All 단체의 다른 사업 비용을 사용되거나, 세무대리인 수수료 등 단체 관리 비용으로 활용됩니다.
 
-## Comply with Ubuntu Code of Conduct
-At all events organized by the Ubuntu Korean Community, we ask all participants to follow the "Ubuntu Code of Conduct" in order to create a safe environment where all participants are treated with respect. This also applies to sponsors, without exception. Please read the full text of the Code of Conduct and abide by it.
-https://ubuntu.com/community/ethos/code-of-conduct 
 
 
 ---
 
 <style scoped>
     section {
-        background-image: url(https://assets.ubuntu.com/v1/ed94a429-0000_suru-corner-fan--top-right-light.jpg);
-        background-position: top right;
-        background-size: 20rem 15rem;
-        align-content: end;
+        align-content: center;
         font-size: 30px;
     }
     h1 {
@@ -404,16 +282,14 @@ https://ubuntu.com/community/ethos/code-of-conduct
 
 # End of Document
 
-Thank you for consider sponsoring our event.
-For inquires and securing sponsorship,
-Contact sponsorship team at
-sponsorship@ubuntu-kr.org 
+행사 후원을 검토 해 주셔서 감사합니다.
+후원 패키지 확보 및 관련 문의가 있으신 경우
+아래 이메일 주소로 후원사 팀에 연락해 주세요.
+sponsors@fossforall.org
 
-More details on this event can be found at
-https://2025.ubuntu-kr.org
+행사에 대한 자세한 정보는 웹사이트에서 확인 가능합니다.
+https://2025.fossforall.org
 
-<img src="./assets/UbuntuKrLogo.svg" style="margin: 10px 0 10px 0; height: 50px;"/>
-<img src="./assets/uck24opening.JPG" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
-<!-- footer: false -->
+<!-- footer: . -->
