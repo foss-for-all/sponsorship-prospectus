@@ -53,8 +53,16 @@ Coexist with Open Source
 <!-- header: ![w:50](./assets/logo.svg) -->
 <!-- footer: https://2025.fossforall.org | sponsors@fossforall.org -->
 
-
+<style scoped>
+img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
 # FOSS for All Conference 소개
+
+![center h:300](./assets/pictogram_foss.svg)
 
 올해 처음 열리는 FOSS for ALl 컨퍼런스는 “Free and Open Source Software for All”이라는 슬로건 아래, 모두를 위한 오픈소스 컨퍼런스를 목표로 하는 비영리 오픈소스 커뮤니티 컨퍼런스입니다.
 
