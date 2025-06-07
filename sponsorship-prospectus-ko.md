@@ -118,9 +118,10 @@ FOSS for All (포스포올)은 지속 가능한 자유/오픈소스(Free and Ope
 # 행사장 및 시간표
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
-  <img src="./assets/venue1.jpg" style="flex: 1">
-  <img src="./assets/venue2.jpg" style="flex: 1">
+  <img src="./assets/venue1.jpg" style="flex: 2">
+  <img src="./assets/venue2.jpg" style="flex: 2">
   <img src="./assets/venue3.jpg" style="flex: 1">
+  <img src="./assets/venue4.jpg" style="flex: 1">
 </div>
 
 ## 행사장
@@ -262,7 +263,8 @@ FOSS for All에서 주최하는 FOSS for All 컨퍼런스는 자원 봉사자로
   - 컨퍼런스의 개인정보처리방침에 따라 보유 및 이용 가능하며, 개인정보처리방침에 기재할 후원사 상호명과 주소, 후원사 측 담당자 및 연락처 정보, 이용목적과 보유기간 만료 후 폐기방법 등을 반드시 알려주셔야 합니다. 
 
 ## 공통
-- 후원증서
+- **후원증서**: 후원에 대한 감사의 마음을 담아 FOSS for All Conference 후원증서를 드립니다. 관련 내용은 후원 확정 이후 더 자세히 안내 드릴 예정입니다.
+
 
 
 ---

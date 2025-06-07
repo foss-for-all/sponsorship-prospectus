@@ -118,9 +118,10 @@ FOSS for All (포스포올)은 지속 가능한 자유/오픈소스(Free and Ope
 # 행사장 및 시간표
 
 <div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 160px; ">
-  <img src="./assets/venue1.jpg" style="flex: 1">
-  <img src="./assets/venue2.jpg" style="flex: 1">
+  <img src="./assets/venue1.jpg" style="flex: 2">
+  <img src="./assets/venue2.jpg" style="flex: 2">
   <img src="./assets/venue3.jpg" style="flex: 1">
+  <img src="./assets/venue4.jpg" style="flex: 1">
 </div>
 
 ## 행사장
