@@ -64,7 +64,7 @@ img[alt~='center'] {
 
 ![center h:300](./assets/pictogram_foss.svg)
 
-The inaugural FOSS for All Conference is a non-profit open source community event under the slogan “Free and Open Source Software for All.” Our goal is to create an open source conference for everyone.
+The first edition of FOSS for All Conference is a non-profit open source community event under the slogan “Free and Open Source Software for All.” Our goal is to create an open source conference for everyone.
 
 Globally, non-profit open source conferences like COSCUP (Taiwan) and FOSDEM (Belgium) are thriving, nurturing their local open source ecosystems. In Korea, large global open source projects such as Python, Golang, Ubuntu, OpenStack, and Kubernetes can organize their own conferences with sponsors, but smaller projects and individuals face challenges in hosting technical exchange events. FOSS for All was launched to help foster the domestic open source ecosystem by bringing together diverse open source projects in Korea.
 
@@ -95,9 +95,9 @@ img[alt~='center'] {
 </style>
 # About FOSS for All
 ![center h:300](./assets/pictogram_bg.svg)
-**An Initiative for a Sustainable Free/Open Source Software Ecosystem**
+**An initiative to build sustainable FOSS ecosystem in Korea and beyond**
 
-FOSS for All is an initiative launched by various domestic and international communities and projects to build a sustainable free/open source ecosystem. Starting with group registration and the first conference, we aim to establish a non-profit corporation, obtain public interest status, and build networks among projects, communities, companies, and users.
+FOSS for All is an initiative launched by various domestic and international communities and projects to build a sustainable free/open source ecosystem. Starting with small non-profit registration via tax authority and the first conference, we aim to establish a non-profit corporation, obtain public interest status, and build networks among projects, communities, companies, and users.
 
 Through these efforts, we hope to support open source projects and communities in Korea and worldwide, so they can focus on what matters without the burden of paperwork or administration, contributing to a sustainable open source ecosystem.
 
@@ -124,27 +124,29 @@ We will build networks among maintainers, contributors, enthusiasts, users, comp
 
 ## Venue
 **Kwangwoon University**
-The event will be held at Kwangwoon University, a comprehensive private university in Seoul known for its practical software education, student-led open source projects (KW Open Source Group), and experience hosting international open source conferences. Kwangwoon University also hosted VideoLAN’s Video Dev Day in 2024, demonstrating its capacity for large-scale events—making it an ideal venue for FOSS for All Conference.
+The event will be held at Kwangwoon University, a comprehensive private university in Seoul known for its practical software education, student-led open source projects (KW Open Source Group), and experience hosting international open source conferences. 
+
+Kwangwoon University also hosted VideoLAN’s Video Dev Day in 2024, demonstrating its capacity for large-scale events—making it an ideal venue for FOSS for All Conference.
 
 ## Draft Schedule
 
 | Conference Hall | Room 1 | Room 2 | Room 3 |
 | --- | --- | --- | --- |
-| **10:00** Opening (30min) | | | |
-| **10:30** Keynote (40min) | | | |
-| **11:10** Keynote (40min) | | | |
+| **10:00** Opening (30min) | - | - | - |
+| **10:30** Keynote (40min) | - | - | - |
+| **11:10** Keynote (40min) | - | - | - |
 | **11:50** Lunch (70min) |
-| Not used | **13:00** Talk (30min) | **13:00** Talk (30min) | **13:00** Talk (30min) |
-| Not used | **13:30** Talk (30min) | **13:30** Talk (30min) | **13:30** Talk (30min) |
-| Not used | **14:00** Talk (30min) | **14:00** Talk (30min) | **14:00** Talk (30min) |
+| - | **13:00** Talk (30min) | **13:00** Talk (30min) | **13:00** Talk (30min) |
+| - | **13:30** Talk (30min) | **13:30** Talk (30min) | **13:30** Talk (30min) |
+| - | **14:00** Talk (30min) | **14:00** Talk (30min) | **14:00** Talk (30min) |
 | **14:30** Afternoon Break (30min) |
-| Not used | **15:00** Talk (30min) | **15:00** Talk (30min) | **15:00** Talk (30min) |
-| Not used | **15:30** Talk (30min) | **15:30** Talk (30min) | **15:30** Talk (30min) |
-| Not used | **16:00** Talk (30min) | **16:00** Talk (30min) | **16:00** Talk (30min) |
-| Not used | **16:30** Talk (30min) | **16:30** Talk (30min) | **16:30** Talk (30min) |
-| **17:00** Move to Conference Hall (10min) |
-| **17:10** Lightning Talk (20min) |
-| **17:40** Closing & Group Photo (30min) |
+| - | **15:00** Talk (30min) | **15:00** Talk (30min) | **15:00** Talk (30min) |
+| - | **15:30** Talk (30min) | **15:30** Talk (30min) | **15:30** Talk (30min) |
+| - | **16:00** Talk (30min) | **16:00** Talk (30min) | **16:00** Talk (30min) |
+| - | **16:30** Talk (30min) | **16:30** Talk (30min) | **16:30** Talk (30min) |
+| **17:00** Move to Conference Hall (10min) | - | - | - |
+| **17:10** Lightning Talk (20min) | - | - | - |
+| **17:40** Closing & Group Photo (30min) | - | - | - |
 | **18:10** End of Event |
 
 ---
@@ -167,7 +169,8 @@ Through our sponsorship packages, you can strengthen your brand among diverse op
   <p>
     <img src="./assets/icons/talent.svg" style="height: 40px"/><br/>
     <b>Talent Acquisition</b><br/>
-    Recruit top talent in the industry. Over 60% of last year’s attendees worked in IT-related fields.
+    Recruit top talent in the industry.<br/>
+    This event attracts participants primarily working in IT-related fields.
   </p>
   <p>
     <img src="./assets/icons/bullhorn.svg" style="height: 40px"/><br/>
@@ -257,7 +260,7 @@ You may also sponsor goods such as snacks, souvenirs, or other items needed for 
   - In accordance with the conference’s privacy policy, you must provide your company name, address, sponsor contact information, purpose of use, retention period, and disposal method after expiration for inclusion in the privacy policy.
 
 ## Common
-- Certificate of Sponsorship
+- **Certificate of Appreciation**: As a token of our gratitude for your sponsorship, we will present a certificate to commemorate your participation as a conference sponsor.
 
 
 ---
@@ -293,10 +296,11 @@ Once registration is complete, your logo will be posted on the website and you w
 # End of Document
 
 Thank you for considering sponsorship.
-For sponsorship packages and inquiries, please contact the sponsor team at:
+For sponsorship packages and inquiries,
+please contact the sponsorship team at:
 sponsors@fossforall.org
 
-For more information, visit our website:
+To learn more, please visit our website:
 https://2025.fossforall.org
 
 
