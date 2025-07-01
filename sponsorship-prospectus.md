@@ -150,7 +150,7 @@ Kwangwoon University also hosted VideoLAN’s Video Dev Day in 2024, demonstrati
 | **18:10** End of Event |
 
 ---
-# Meaning of Sponsorship & Sponsor Benefits
+# Become a sponsor!
 ## Why Sponsor?
 The FOSS for All Conference is organized by a volunteer committee as a non-profit event. Event costs are covered by participation fees and sponsorships. To keep the event accessible to as many people as possible, participation fees are minimized, making sponsor contributions even more crucial.
 
