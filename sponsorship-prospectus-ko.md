@@ -64,7 +64,7 @@ img[alt~='center'] {
 
 ![center h:300](./assets/pictogram_foss.svg)
 
-올해 처음 열리는 FOSS for ALl 컨퍼런스는 “Free and Open Source Software for All”이라는 슬로건 아래, 모두를 위한 오픈소스 컨퍼런스를 목표로 하는 비영리 오픈소스 커뮤니티 컨퍼런스입니다.
+올해 처음 열리는 FOSS for All 컨퍼런스는 “Free and Open Source Software for All”이라는 슬로건 아래, 모두를 위한 오픈소스 컨퍼런스를 목표로 하는 비영리 오픈소스 커뮤니티 컨퍼런스입니다.
 
 해외에서는 COSCUP (대만), FOSDEM (벨기에) 등 다양한 오픈소스 중심의 비영리 컨퍼런스가 활발히 열려 각국의 오픈소스 생태계의 자양분이 되어 주고 있습니다. 한국에서는 Python, Golang, Ubuntu, OpenStack, Kubernetes 같은 규모가 큰 글로벌 오픈소스 프로젝트는 운영진을 조직하고 후원사를 모집하여 자체 컨퍼런스를 운영할 수 있지만, 개인 혹은 작은 규모의 오픈소스 프로젝트는 기술 교류 행사를 조직하기 쉽지 않은 상황입니다. FOSS for All은 한국에서도 다양한 분야의 오픈소스 프로젝트가 모이는 컨퍼런스를 열어 국내 오픈소스 생태계에 도움을 주고자 하는 취지에서 출발했습니다.
 
